@@ -1,0 +1,3 @@
+hi these is example of read file through stream.
+
+file readed
